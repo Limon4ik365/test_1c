@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="0b0e9d9f-244d-487b-a80a-2faed86148d1" configVersion="f3da4780e129f746be0d3cfa5d46c80a00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="42c59c69-9b09-426a-8f75-8d944c2783ae" configVersion="e87058126bffc24fb60747544a6b3d3100000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="42c59c69-9b09-426a-8f75-8d944c2783ae.0" configVersion="ea2a8063532a134eaa17ec50e2bec1c700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0b0e9d9f-244d-487b-a80a-2faed86148d1" configVersion="820578c46a10974aa40275756e6d771500000000"/>
+		<Metadata name="InformationRegister.РезультатРегламентныхЗаданий" id="0ba6f2aa-f753-42b1-96b4-30160286dd25" configVersion="da56371485f54c45b08376d03598ab3000000000">
+			<Metadata name="InformationRegister.РезультатРегламентныхЗаданий.Dimension.ДатаВыполнения" id="7d8d83d1-1eb6-4595-af3e-3d69c7e9001d"/>
+			<Metadata name="InformationRegister.РезультатРегламентныхЗаданий.Resource.РезультатВыполнения" id="a2e8b443-2e00-4993-9701-49e0f7815365"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="3daa7afa-c098-4716-97a4-635c73f83b5c" configVersion="4aaf53989d54f641b1854c9e19c5d8a800000000"/>
+		<Metadata name="ScheduledJob.РегламентноеЗадание" id="46aeb4f3-3151-40dd-8a52-eb94494102a7" configVersion="ece10c415e293d438819b734fe131ef300000000"/>
+		<Metadata name="ScheduledJob.РегламентноеЗадание.Schedule" id="46aeb4f3-3151-40dd-8a52-eb94494102a7.0" configVersion="49334b7b79c2b247ae8e7b0f2c91252e00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -245,6 +245,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ОбщийМодуль1</CommonModule>
+			<ScheduledJob>РегламентноеЗадание</ScheduledJob>
+			<InformationRegister>РезультатРегламентныхЗаданий</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
